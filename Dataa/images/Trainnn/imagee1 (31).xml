@@ -1,0 +1,38 @@
+<annotation>
+	<folder>1</folder>
+	<filename>image31.jpg</filename>
+	<path>C:/Users/Buse/Desktop/frames/1/image31.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>426</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>do not enter</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>36</xmin>
+			<ymin>31</ymin>
+			<xmax>108</xmax>
+			<ymax>99</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>speed limit 70</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>595</xmin>
+			<ymin>37</ymin>
+			<xmax>640</xmax>
+			<ymax>126</ymax>
+		</bndbox>
+	</object>
+</annotation>

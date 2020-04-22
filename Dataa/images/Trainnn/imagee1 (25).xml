@@ -1,0 +1,38 @@
+<annotation>
+	<folder>1</folder>
+	<filename>image25.jpg</filename>
+	<path>C:/Users/Buse/Desktop/frames/1/image25.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>426</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>do not enter</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>95</xmin>
+			<ymin>20</ymin>
+			<xmax>150</xmax>
+			<ymax>73</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>speed limit 70</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>514</xmin>
+			<ymin>25</ymin>
+			<xmax>574</xmax>
+			<ymax>91</ymax>
+		</bndbox>
+	</object>
+</annotation>

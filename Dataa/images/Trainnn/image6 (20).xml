@@ -1,0 +1,38 @@
+<annotation>
+	<folder>6</folder>
+	<filename>image20.jpg</filename>
+	<path>C:/Users/Buse/Desktop/frames/6/image20.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>426</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pedestrian crossing</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>34</xmin>
+			<ymin>29</ymin>
+			<xmax>90</xmax>
+			<ymax>85</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>school crossing</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>498</xmin>
+			<ymin>21</ymin>
+			<xmax>552</xmax>
+			<ymax>82</ymax>
+		</bndbox>
+	</object>
+</annotation>

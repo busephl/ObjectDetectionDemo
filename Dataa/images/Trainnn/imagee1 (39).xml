@@ -1,0 +1,26 @@
+<annotation>
+	<folder>1</folder>
+	<filename>image39.jpg</filename>
+	<path>C:/Users/Buse/Desktop/frames/1/image39.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>426</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>do not enter</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>32</ymin>
+			<xmax>58</xmax>
+			<ymax>120</ymax>
+		</bndbox>
+	</object>
+</annotation>

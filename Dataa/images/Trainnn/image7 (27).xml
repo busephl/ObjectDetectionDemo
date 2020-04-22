@@ -1,0 +1,26 @@
+<annotation>
+	<folder>7</folder>
+	<filename>image27.jpg</filename>
+	<path>C:/Users/Buse/Desktop/frames/7/image27.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>426</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>speed limit 70</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>543</xmin>
+			<ymin>28</ymin>
+			<xmax>612</xmax>
+			<ymax>104</ymax>
+		</bndbox>
+	</object>
+</annotation>

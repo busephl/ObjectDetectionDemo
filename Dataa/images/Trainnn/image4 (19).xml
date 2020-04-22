@@ -1,0 +1,38 @@
+<annotation>
+	<folder>4</folder>
+	<filename>image19.jpg</filename>
+	<path>C:/Users/Buse/Desktop/frames/4/image19.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>426</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>do not enter</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>34</xmin>
+			<ymin>30</ymin>
+			<xmax>94</xmax>
+			<ymax>91</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>red light</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>501</xmin>
+			<ymin>22</ymin>
+			<xmax>570</xmax>
+			<ymax>93</ymax>
+		</bndbox>
+	</object>
+</annotation>
