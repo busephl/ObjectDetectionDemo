@@ -1,110 +1,74 @@
 <annotation>
-	<folder>images</folder>
+	<folder>Train</folder>
 	<filename>7.jpg</filename>
-	<path>E:\Learning_Resources\Deep_learning\my_data_sets\DATASETS_IMAGE\object_detection_demo\images\7.jpg</path>
+	<path>C:/Users/Buse/Desktop/Train/7.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>800</width>
-		<height>600</height>
+		<width>640</width>
+		<height>426</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>date</name>
+		<name>speed limit 50</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>174</xmin>
-			<ymin>48</ymin>
-			<xmax>300</xmax>
-			<ymax>218</ymax>
+			<xmin>89</xmin>
+			<ymin>26</ymin>
+			<xmax>141</xmax>
+			<ymax>75</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>date</name>
+		<name>do not enter</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>452</xmin>
-			<ymin>299</ymin>
-			<xmax>618</xmax>
-			<ymax>453</ymax>
+			<xmin>169</xmin>
+			<ymin>21</ymin>
+			<xmax>206</xmax>
+			<ymax>53</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>date</name>
+		<name>speed limit 70</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>56</xmin>
-			<ymin>373</ymin>
-			<xmax>210</xmax>
-			<ymax>476</ymax>
+			<xmin>417</xmin>
+			<ymin>14</ymin>
+			<xmax>456</xmax>
+			<ymax>57</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>fig</name>
+		<name>stop sign</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>18</xmin>
-			<ymin>20</ymin>
-			<xmax>159</xmax>
-			<ymax>154</ymax>
+			<xmin>465</xmin>
+			<ymin>18</ymin>
+			<xmax>510</xmax>
+			<ymax>71</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>fig</name>
+		<name>red light</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>494</xmin>
-			<ymin>236</ymin>
-			<xmax>689</xmax>
-			<ymax>364</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>fig</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>99</xmin>
-			<ymin>257</ymin>
-			<xmax>231</xmax>
-			<ymax>340</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>hazelnut</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>208</xmin>
-			<ymin>261</ymin>
-			<xmax>281</xmax>
-			<ymax>325</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>hazelnut</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>158</xmin>
-			<ymin>325</ymin>
-			<xmax>245</xmax>
-			<ymax>404</ymax>
+			<xmin>514</xmin>
+			<ymin>24</ymin>
+			<xmax>575</xmax>
+			<ymax>87</ymax>
 		</bndbox>
 	</object>
 </annotation>

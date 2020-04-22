@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Train</folder>
+	<filename>145.jpg</filename>
+	<path>C:/Users/Buse/Desktop/Train/145.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>426</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pedestrian crossing</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>58</xmin>
+			<ymin>27</ymin>
+			<xmax>112</xmax>
+			<ymax>86</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>red light</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>482</xmin>
+			<ymin>24</ymin>
+			<xmax>546</xmax>
+			<ymax>80</ymax>
+		</bndbox>
+	</object>
+</annotation>

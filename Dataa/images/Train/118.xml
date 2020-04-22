@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Train</folder>
+	<filename>118.jpg</filename>
+	<path>C:/Users/Buse/Desktop/Train/118.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>426</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>do not enter</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>21</xmin>
+			<ymin>31</ymin>
+			<xmax>86</xmax>
+			<ymax>98</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>red light</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>523</xmin>
+			<ymin>25</ymin>
+			<xmax>587</xmax>
+			<ymax>98</ymax>
+		</bndbox>
+	</object>
+</annotation>

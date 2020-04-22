@@ -1,86 +1,86 @@
 <annotation>
-	<folder>images</folder>
+	<folder>Train</folder>
 	<filename>6.jpg</filename>
-	<path>E:\Learning_Resources\Deep_learning\my_data_sets\DATASETS_IMAGE\object_detection_demo\images\6.jpg</path>
+	<path>C:/Users/Buse/Desktop/Train/6.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>800</width>
-		<height>600</height>
+		<width>640</width>
+		<height>426</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>date</name>
+		<name>speed limit 50</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>286</xmin>
-			<ymin>248</ymin>
-			<xmax>503</xmax>
-			<ymax>424</ymax>
+			<xmin>90</xmin>
+			<ymin>25</ymin>
+			<xmax>143</xmax>
+			<ymax>72</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>date</name>
+		<name>do not enter</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>28</xmin>
-			<ymin>292</ymin>
-			<xmax>243</xmax>
-			<ymax>434</ymax>
+			<xmin>169</xmin>
+			<ymin>19</ymin>
+			<xmax>203</xmax>
+			<ymax>52</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>fig</name>
+		<name>speed limit 70</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>497</xmin>
-			<ymin>240</ymin>
-			<xmax>643</xmax>
-			<ymax>455</ymax>
+			<xmin>412</xmin>
+			<ymin>16</ymin>
+			<xmax>451</xmax>
+			<ymax>53</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>hazelnut</name>
+		<name>stop sign</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>339</xmin>
-			<ymin>116</ymin>
-			<xmax>409</xmax>
-			<ymax>212</ymax>
+			<xmin>458</xmin>
+			<ymin>18</ymin>
+			<xmax>501</xmax>
+			<ymax>66</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>hazelnut</name>
+		<name>red light</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>115</xmin>
-			<ymin>141</ymin>
-			<xmax>226</xmax>
-			<ymax>248</ymax>
+			<xmin>506</xmin>
+			<ymin>22</ymin>
+			<xmax>563</xmax>
+			<ymax>85</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>hazelnut</name>
+		<name>pedestrian crossing</name>
 		<pose>Unspecified</pose>
-		<truncated>0</truncated>
+		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>587</xmin>
-			<ymin>332</ymin>
-			<xmax>706</xmax>
-			<ymax>420</ymax>
+			<xmin>593</xmin>
+			<ymin>29</ymin>
+			<xmax>640</xmax>
+			<ymax>125</ymax>
 		</bndbox>
 	</object>
 </annotation>
