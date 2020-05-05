@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Images</folder>
+	<folder>Train</folder>
 	<filename>51.jpg</filename>
-	<path>C:\Users\lenovo\Desktop\Images\51.jpg</path>
+	<path>C:/Users/Buse/Desktop/Train/51.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,22 +17,22 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>20</xmin>
-			<ymin>35</ymin>
-			<xmax>81</xmax>
-			<ymax>96</ymax>
+			<xmin>63</xmin>
+			<ymin>30</ymin>
+			<xmax>121</xmax>
+			<ymax>84</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>speed limit 70</name>
+		<name>stop sign</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>140</xmin>
-			<ymin>17</ymin>
+			<xmin>134</xmin>
+			<ymin>22</ymin>
 			<xmax>180</xmax>
-			<ymax>57</ymax>
+			<ymax>62</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -41,22 +41,34 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>480</xmin>
-			<ymin>20</ymin>
-			<xmax>522</xmax>
-			<ymax>62</ymax>
+			<xmin>443</xmin>
+			<ymin>18</ymin>
+			<xmax>488</xmax>
+			<ymax>64</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>do not enter</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>499</xmin>
+			<ymin>22</ymin>
+			<xmax>553</xmax>
+			<ymax>80</ymax>
 		</bndbox>
 	</object>
 	<object>
 		<name>speed limit 50</name>
 		<pose>Unspecified</pose>
-		<truncated>0</truncated>
+		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>542</xmin>
+			<xmin>596</xmin>
 			<ymin>33</ymin>
-			<xmax>601</xmax>
-			<ymax>92</ymax>
+			<xmax>640</xmax>
+			<ymax>122</ymax>
 		</bndbox>
 	</object>
 </annotation>

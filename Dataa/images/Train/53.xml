@@ -1,7 +1,7 @@
 <annotation>
 	<folder>Train</folder>
 	<filename>53.jpg</filename>
-	<path>C:/Users/Buse/Desktop/Train/53.jpg</path>
+	<path>C:\Users\Buse\Desktop\Train\53.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -57,18 +57,6 @@
 			<ymin>22</ymin>
 			<xmax>552</xmax>
 			<ymax>85</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>speed limit 50</name>
-		<pose>Unspecified</pose>
-		<truncated>1</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>606</xmin>
-			<ymin>41</ymin>
-			<xmax>640</xmax>
-			<ymax>128</ymax>
 		</bndbox>
 	</object>
 </annotation>

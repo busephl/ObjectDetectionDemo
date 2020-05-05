@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Train</folder>
+	<filename>291.jpg</filename>
+	<path>C:\Users\PC\Desktop\Train\291.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>426</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pedestrian crossing</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>563</xmin>
+			<ymin>24</ymin>
+			<xmax>633</xmax>
+			<ymax>115</ymax>
+		</bndbox>
+	</object>
+</annotation>

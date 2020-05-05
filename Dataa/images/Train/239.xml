@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Train</folder>
+	<filename>239.jpg</filename>
+	<path>C:\Users\PC\Desktop\Train\239.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>426</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>school crossing</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>417</xmin>
+			<ymin>15</ymin>
+			<xmax>459</xmax>
+			<ymax>57</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>red light</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3</xmin>
+			<ymin>40</ymin>
+			<xmax>49</xmax>
+			<ymax>108</ymax>
+		</bndbox>
+	</object>
+</annotation>

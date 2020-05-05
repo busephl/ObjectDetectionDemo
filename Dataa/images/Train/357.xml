@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Train</folder>
+	<filename>357.jpg</filename>
+	<path>C:\Users\PC\Desktop\Train\357.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>426</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>do not enter</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>557</xmin>
+			<ymin>23</ymin>
+			<xmax>636</xmax>
+			<ymax>112</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>pedestrian crossing</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>58</xmin>
+			<ymin>26</ymin>
+			<xmax>111</xmax>
+			<ymax>74</ymax>
+		</bndbox>
+	</object>
+</annotation>

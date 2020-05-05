@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Train</folder>
+	<filename>488.jpg</filename>
+	<path>C:\Users\PC\Desktop\Train\488.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>426</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pedestrian crossing</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>565</xmin>
+			<ymin>25</ymin>
+			<xmax>640</xmax>
+			<ymax>113</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>speed limit 50</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>176</xmin>
+			<ymin>15</ymin>
+			<xmax>219</xmax>
+			<ymax>51</ymax>
+		</bndbox>
+	</object>
+</annotation>

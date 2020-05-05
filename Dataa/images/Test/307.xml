@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Train</folder>
+	<filename>307.jpg</filename>
+	<path>C:\Users\PC\Desktop\Train\307.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>426</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>speed limit 50</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>460</xmin>
+			<ymin>10</ymin>
+			<xmax>519</xmax>
+			<ymax>75</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>red light</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>30</xmin>
+			<ymin>35</ymin>
+			<xmax>90</xmax>
+			<ymax>89</ymax>
+		</bndbox>
+	</object>
+</annotation>

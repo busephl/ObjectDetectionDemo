@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Train</folder>
+	<filename>944.jpg</filename>
+	<path>C:/Users/Buse/Desktop/Train/944.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>426</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>speed limit 50</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>16</xmin>
+			<ymin>37</ymin>
+			<xmax>73</xmax>
+			<ymax>98</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>pedestrian crossing</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>490</xmin>
+			<ymin>18</ymin>
+			<xmax>548</xmax>
+			<ymax>81</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Train</folder>
+	<filename>245.jpg</filename>
+	<path>C:\Users\Buse\Desktop\Train\245.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>426</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>school crossing</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>434</xmin>
+			<ymin>12</ymin>
+			<xmax>492</xmax>
+			<ymax>69</ymax>
+		</bndbox>
+	</object>
+</annotation>

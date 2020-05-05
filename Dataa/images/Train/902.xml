@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Train</folder>
+	<filename>902.jpg</filename>
+	<path>C:/Users/Buse/Desktop/Train/902.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>426</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>do not enter</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>92</xmin>
+			<ymin>24</ymin>
+			<xmax>143</xmax>
+			<ymax>74</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>speed limit 70</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>520</xmin>
+			<ymin>26</ymin>
+			<xmax>579</xmax>
+			<ymax>89</ymax>
+		</bndbox>
+	</object>
+</annotation>

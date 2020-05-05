@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Train</folder>
+	<filename>776.jpg</filename>
+	<path>C:/Users/Buse/Desktop/Train/776.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>426</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>school crossing</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>131</xmin>
+			<ymin>17</ymin>
+			<xmax>176</xmax>
+			<ymax>63</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>do not enter</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>582</xmin>
+			<ymin>36</ymin>
+			<xmax>640</xmax>
+			<ymax>126</ymax>
+		</bndbox>
+	</object>
+</annotation>

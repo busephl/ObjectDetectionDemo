@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Train</folder>
+	<filename>1060.jpg</filename>
+	<path>C:/Users/Buse/Desktop/Train/1060.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>426</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>speed limit 50</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>167</xmin>
+			<ymin>18</ymin>
+			<xmax>218</xmax>
+			<ymax>62</ymax>
+		</bndbox>
+	</object>
+</annotation>

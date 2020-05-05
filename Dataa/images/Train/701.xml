@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Train</folder>
+	<filename>701.jpg</filename>
+	<path>C:/Users/Buse/Desktop/Train/701.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>426</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>stop sign</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>61</xmin>
+			<ymin>20</ymin>
+			<xmax>119</xmax>
+			<ymax>82</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>pedestrian crossing</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>545</xmin>
+			<ymin>26</ymin>
+			<xmax>601</xmax>
+			<ymax>94</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Train</folder>
+	<filename>543.jpg</filename>
+	<path>C:/Users/Buse/Desktop/Train/543.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>426</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>speed limit 70</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>153</xmin>
+			<ymin>18</ymin>
+			<xmax>199</xmax>
+			<ymax>62</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>pedestrian crossing</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>583</xmin>
+			<ymin>32</ymin>
+			<xmax>640</xmax>
+			<ymax>123</ymax>
+		</bndbox>
+	</object>
+</annotation>

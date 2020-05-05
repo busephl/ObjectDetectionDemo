@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Images</folder>
+	<folder>Train</folder>
 	<filename>23.jpg</filename>
-	<path>C:\Users\lenovo\Desktop\Images\23.jpg</path>
+	<path>C:\Users\Buse\Desktop\Train\23.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,51 +12,27 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>speed limit 50</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>42</xmin>
-			<ymin>31</ymin>
-			<xmax>106</xmax>
-			<ymax>90</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>red light</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>142</xmin>
-			<ymin>18</ymin>
-			<xmax>190</xmax>
-			<ymax>56</ymax>
-		</bndbox>
-	</object>
-	<object>
 		<name>do not enter</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>488</xmin>
-			<ymin>17</ymin>
-			<xmax>532</xmax>
-			<ymax>66</ymax>
+			<xmin>109</xmin>
+			<ymin>21</ymin>
+			<xmax>161</xmax>
+			<ymax>73</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>school crossing</name>
+		<name>speed limit 70</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>567</xmin>
-			<ymin>26</ymin>
-			<xmax>621</xmax>
-			<ymax>98</ymax>
+			<xmin>498</xmin>
+			<ymin>20</ymin>
+			<xmax>556</xmax>
+			<ymax>84</ymax>
 		</bndbox>
 	</object>
 </annotation>

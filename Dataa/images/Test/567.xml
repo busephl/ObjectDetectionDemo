@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Train</folder>
+	<filename>567.jpg</filename>
+	<path>C:/Users/Buse/Desktop/Train/567.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>426</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>stop sign</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>105</xmin>
+			<ymin>20</ymin>
+			<xmax>157</xmax>
+			<ymax>73</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>speed limit 70</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>224</xmin>
+			<ymin>14</ymin>
+			<xmax>261</xmax>
+			<ymax>50</ymax>
+		</bndbox>
+	</object>
+</annotation>
